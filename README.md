@@ -3,6 +3,13 @@
 
 
 ## OBJETIVOS
+##Objetivo General
+Realizar uun circuito  Vaiven guiandonos de los videos proporcionados y todo el material posible que podamos encontar sobre este tema para conseguir encender y apagar una bombilla eléctrica desde dos interruptores distintos.
+##Objetivo específicos
+- Entender el funcionamiento del circuito y el porqué nos permite encender y apagar la bombilla desde distintos interruptores
+- Implementar nuestro circuito primeramente en un diagrama para tener una idea clara de lo que vamos a hacer en nuestro proyecto
+- Realizar  la implementación física de nuestro proyecto usando componentes eléctricos que nos permitan realizar de manera correcta el proyecto para su correcto funcionamiento
+
 
 ## MARCO TEORICO
 [![Mapa-Mental-Lluvia-de-Ideas-Colorido-Verde-5.png](https://i.postimg.cc/C17PgLJk/Mapa-Mental-Lluvia-de-Ideas-Colorido-Verde-5.png)](https://postimg.cc/xJkyGQw1)
